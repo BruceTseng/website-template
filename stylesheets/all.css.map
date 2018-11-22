@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "all.scss",
+        "modules/_all.scss",
+        "modules/_typography.scss",
+        "modules/_colors.scss",
+        "modules/_mixins.scss",
+        "partials/_all.scss",
+        "partials/_base.scss",
+        "partials/_header.scss"
+    ],
+    "names": [],
+    "file": "all.css"
+}
